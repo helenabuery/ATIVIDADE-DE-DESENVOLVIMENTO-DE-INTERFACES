@@ -1,4 +1,4 @@
-# ATIVIDADE-DE-DESENVOLVIMENTO-DE-INTERFACES
+# ATIVIDADE-DE-DESENVOLVIMENTO-WEB
 ## Linha do tempo da Inteligência Artificial 
 
 Nessa atividade foi desenvolvida para a disciplina de Desenvolvimento Web, com o objetivo de criar uma linha do tempo interativa sobre a história da Inteligência Artificial.
